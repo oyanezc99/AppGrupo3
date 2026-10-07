@@ -11,4 +11,10 @@
         android:label="@string/textpregunta1"
         tools:layout="@layout/fragment_pregunta1" />
 
+    <fragment
+        android:id="@+id/pregunta3Fragment"
+        android:name="pe.edu.cibertec.appGrupo3.Pregunta3Fragment"
+        android:label="@string/textpregunta3"
+        tools:layout="@layout/fragment_pregunta3" />
+
 </navigation>
