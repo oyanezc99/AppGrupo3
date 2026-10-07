@@ -22,19 +22,3 @@ pantalla de **login** (usuarios de prueba del grupo) y al validar correctamente 
    resolvieron los conflictos de código (navegación, fragments, layouts, dependencias)
    siguiendo un mismo estándar de nombres y estructura.
 3. Finalmente se hizo el merge de `resolution-merge` hacia `main` para la entrega.
-
-## Funcionalidades
-
-| Pestaña | Descripción |
-|---------|-------------|
-| Pregunta 1 | Cálculo del consumo de agua |
-| Pregunta 2 | Cálculo del consumo de energía (recargo por exceso) |
-| Pregunta 3 | Lista de 20 obras literarias peruanas (RecyclerView + Glide) |
-| Pregunta 4 | Listado de usuarios consumiendo una API REST con Retrofit |
-
-## Tecnologías
-
-- Kotlin, Android Studio
-- ViewBinding, Material 3
-- RecyclerView, Glide
-- Retrofit + Gson (dummyjson.com)
