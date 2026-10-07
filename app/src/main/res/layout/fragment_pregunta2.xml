@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/cyan"
+    android:background="@color/fondo_fragment2"
     android:padding="24dp"
     tools:context=".Pregunta2Fragment">
 

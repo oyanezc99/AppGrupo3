@@ -3,4 +3,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="cyan">#FE8FF4FF</color>
+    <color name="fondo_fragment2">#FE8FF4FF</color>
+    <color name="texto_secundario">#575656</color>
 </resources>
