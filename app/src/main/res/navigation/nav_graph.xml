@@ -6,11 +6,6 @@
     app:startDestination="@id/pregunta5Fragment">
 
     <fragment
-        android:id="@+id/pregunta1Fragment"
-        android:name="pe.edu.cibertec.appGrupo3.Pregunta1Fragment"
-        android:label="Pregunta1"
-        tools:layout="@layout/fragment_pregunta1" />
-    <fragment
         android:id="@+id/pregunta5Fragment"
         android:name="pe.edu.cibertec.appGrupo3.Pregunta5Fragment"
         android:label="pregunta5"
