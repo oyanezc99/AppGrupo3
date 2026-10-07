@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/pregunta1Fragment"
         android:icon="@drawable/outline_add_home_24"
-        android:title="@string/textpregunta1" />
+        android:title="@string/textpregunta5" />
     <item android:id="@+id/pregunta2Fragment"
         android:icon="@drawable/outline_add_chart_24"
         android:title="@string/textpregunta2" />
@@ -12,4 +12,7 @@
     <item android:id="@+id/pregunta4Fragment"
         android:icon="@drawable/outline_account_circle_24"
         android:title="@string/textpregunta4" />
+    <item android:id="@+id/pregunta5Fragment"
+        android:icon="@drawable/outline_account_circle_24"
+        android:title="@string/textpregunta5" />
 </menu>
